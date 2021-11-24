@@ -1,7 +1,9 @@
 #include "Vehicle.h"
 class Truck: public Vehicle
 {
-privat
+private:
+    static const int width = 4;
+    static const int height = 1;
 public:
 	Truck();
 	Truck(int, int);

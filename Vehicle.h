@@ -3,6 +3,8 @@ using namespace std;
 
 class Vehicle
 {
+protected:
+	int mX, mY;
 private:
     /* data */
 public:
