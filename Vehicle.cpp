@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #include "Vehicle.h"
 Vehicle::Vehicle()
 {
@@ -28,4 +29,11 @@ Vehicle::Vehicle(const Vehicle &v)
 
 Vehicle::~Vehicle()
 {
+=======
+#include<iostream>
+using namespace std;
+int main()
+{
+cout << "hello dat cuteeeeeeeeeeeee";
+>>>>>>> 21a1a0f503565c0841d0915be9c09183b4b79a66
 }
