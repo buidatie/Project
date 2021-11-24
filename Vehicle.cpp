@@ -1,1 +1,1 @@
-heeeeelooooo
+cout << "hellooooo";
